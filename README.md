@@ -29,5 +29,5 @@ Este layout foi desenvolvido utilizando as seguintes tecnologias:
 
 Você pode visualizar a demonstração do layout através do seguinte link:
 
-[SneakerZone - Tênis Premium]([https://www.google.com/search?q=https://piratazang.io/Shoes/](https://piratazang.github.io/Shoes/))
+[SneakerZone - Tênis Premium](https://piratazang.github.io/Shoes/))
 
