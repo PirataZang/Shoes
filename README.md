@@ -21,13 +21,12 @@ Este projeto é um **estudo de layout** para uma loja de comércio eletrônico d
 
 Este layout foi desenvolvido utilizando as seguintes tecnologias:
 
-  * **HTML5:** Estrutura semântica da página.
-  * **CSS3:** Estilização e design responsivo.
-  * **JavaScript:** Interatividade da interface (carrosséis, menus, etc.).
+  * **VUE3:** Estrutura semântica da página.
+  * **TAILWIND:** Estilização e design responsivo.
 
 ## Como Acessar o Projeto
 
 Você pode visualizar a demonstração do layout através do seguinte link:
 
-[SneakerZone - Tênis Premium](https://piratazang.github.io/Shoes/))
+[SneakerZone - Tênis Premium](https://piratazang.github.io/Shoes/)
 
